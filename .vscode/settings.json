@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "kernel.h": "c",
+        "const.h": "c",
+        "sysinfo.h": "c",
+        "types.h": "c",
+        "posix_types.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
